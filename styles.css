@@ -9,7 +9,7 @@
   --img-abstract-text: #ffffff;
 }
 
-@media (prefers-color-scheme:  dark) {
+@media (prefers-color-scheme:  light) {
   :root {
     --bad-example-text: gray;
 
